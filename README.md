@@ -1,2 +1,2 @@
 # assignment
-Assignments for IBM DS courses
+Assignments and excises for IBM DS courses
